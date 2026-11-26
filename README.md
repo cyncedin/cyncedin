@@ -9,7 +9,6 @@ Physics student at TU Berlin. Technical co-founder of a health-tech startup. Bui
 | Project | What it is | Showcase |
 |---|---|---|
 | **Kowalski** | AI medical coding assistant for hospitals. Suggests codes, pre-checks the German DRG billing group and confirms every reference against the official catalogs. | [kowalski-showcase](https://github.com/cyncedin/kowalski-showcase) |
-| **Iris** | Keyboard-first Gmail client for humans and AI agents: web UI, CLI and MCP server on one local backend. | [iris-showcase](https://github.com/cyncedin/iris-showcase) |
 | **Kreide** | School platform with one workspace per school. Expo app for phones and tablets plus admin web. | [kreide-showcase](https://github.com/cyncedin/kreide-showcase) |
 
 **Earlier:** at a Berlin food-tech startup I built Review Studio, an internal tool that imports delivery-platform reviews, uses LLMs to map them to products and breaks down the pain points of every store so each store knows what to fix.
