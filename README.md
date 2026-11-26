@@ -1,6 +1,6 @@
-### Hi, I'm Pano 👋
+Hi, I'm Pano 👋
 
-I build software by directing AI coding agents (Claude Code, Codex): I write the specs, break the work into tasks, give the agents project-specific skills and gate every change with verification workflows and tests. The agents write the code.
+I build software.
 
 Physics student at TU Berlin. Technical co-founder of a health-tech startup. Building in public daily on [X @panootw](https://x.com/panootw).
 
